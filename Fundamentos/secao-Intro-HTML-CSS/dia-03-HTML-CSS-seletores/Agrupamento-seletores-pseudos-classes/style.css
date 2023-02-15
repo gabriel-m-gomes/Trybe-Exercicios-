@@ -1,0 +1,21 @@
+h1, p, ol, ul{
+    text-align: center;
+}
+
+ol:hover{
+    background-color: green;
+   
+}
+
+li{
+list-style: none;
+}
+
+li:hover{
+    color: red;
+    transition: 3s;
+}
+
+li:active{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
