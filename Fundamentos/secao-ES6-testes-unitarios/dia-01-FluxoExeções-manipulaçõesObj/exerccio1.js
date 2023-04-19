@@ -153,5 +153,5 @@ const clients = [
     }
   };
   
-  console.log(findPeopleByState('SP')); 
-  console.log(findPeopleByState('AN')); 
+  console.log(findPeopleByState('SP'))
+  console.log(findPeopleByState('AN')) 
