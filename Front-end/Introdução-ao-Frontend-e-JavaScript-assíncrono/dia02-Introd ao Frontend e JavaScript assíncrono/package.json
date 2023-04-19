@@ -1,0 +1,16 @@
+{
+  "name": "dia02",
+  "version": "1.0.0",
+  "description": "exercicio API herois",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --open"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sweetalert2": "^11.7.3",
+    "vite": "^4.2.2"
+  }
+}
