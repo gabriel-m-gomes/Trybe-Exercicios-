@@ -1,0 +1,33 @@
+body {
+    background-color: hsl(0, 0%, 90%)
+}
+
+#titlo {
+    width: 200px;
+    margin: auto;
+    margin-top: 140px;
+}
+
+#corpo {
+    width: 500px;
+    height: 450px;
+    margin: auto;
+}
+
+#hero {
+    width: 300px;
+    height: 500px;
+    margin-left: 100px;
+}
+#name {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#btn {
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    margin-top: 120px;
+}
