@@ -24,7 +24,7 @@ btn.addEventListener('click', (e) => {
       text: error.message,
       icon: 'error',
       confirmButtonText: 'Cool'
-    }));
+    })).catch
   })
   
 
